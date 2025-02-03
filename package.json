@@ -1,0 +1,11 @@
+{
+  "name": "pterodactyl-panel",
+  "version": "1.0.0",
+  "dependencies": {
+    "@vercel/node": "^3.0.0",
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
